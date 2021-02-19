@@ -3,4 +3,3 @@ aku belajar git
 namaku fathur
 yogyakarta
 ilkomp
-Hello kotlin
